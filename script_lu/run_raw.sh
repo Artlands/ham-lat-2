@@ -2,7 +2,7 @@
 
 DMCPOWER=../dmc_power
 
-TRACEFILE=/home/shared/data/HAM_trace/raw_trace/page_rank
+TRACEFILE=/home/shared/data/HAM_trace/raw_trace/lu
 
 CFILE=../config.dmc
 
